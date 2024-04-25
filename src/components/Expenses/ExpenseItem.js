@@ -1,5 +1,5 @@
 // Write your code at relevant places in the code below
-import Card from "./Card.js";
+import Card from "../UI/Card.js";
 import ExpenseDate from "./ExpenseDate.js";
 import "./ExpenseItem.css";
 
